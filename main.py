@@ -15,20 +15,7 @@
 
 #print( len( input("What is your name? ") ) )
 
-# Variables
-
-#name = input("what is your name? ")
-#print(name)
-#-- examples
-#name = input("What is your name? ")
-#length = len(name)
-#print(length)
-# challenge change places 
-#a = input("a:")
-#b = input("b:")
-#c = a
-#a = b
-#b = c
+# Excercise 
 
 # Project 1: the Band name GeneratorExit
 
@@ -50,4 +37,3 @@
 #5. Make sure the input cursor shows on a new line, see the example at:
 #   https://band-name-generator-end.appbrewery.repl.run/
 # use \n
-
